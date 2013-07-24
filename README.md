@@ -38,4 +38,4 @@ Views<br/>
 
 <b>SCREENSHOT</b>
 
-<img style="max-width:100%;" src="https://github.com/kanchana-nyros/CakephpApp/raw/master/screenshots/CakephpApp.png" alt="CakephpApp" title="CakephpApp">
+<img style="max-width:100%;" src="https://github.com/kanchana-nyros/Social-connect-through-CakePhp/blob/master/screenshots/CakephpApp.png" alt="CakephpApp" title="CakephpApp">
