@@ -1,0 +1,9 @@
+<?php
+class ExamplesController extends AppController {
+var $name='Examples';
+function index() {
+$this->set('myvar',$this->Example->helloWorldvar);
+}
+}
+
+?>

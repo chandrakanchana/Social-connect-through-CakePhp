@@ -1,0 +1,9 @@
+<?php
+class Example extends AppModel {
+var $useTable=false;
+var $name="Example";
+//var $hellWorldvar='Hello World....';
+function 
+}
+
+?>
